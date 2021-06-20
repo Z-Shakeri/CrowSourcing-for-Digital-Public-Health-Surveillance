@@ -7,4 +7,4 @@ A full version of the dataset used for this study is available at the dataset's 
 
 ## Tasks and Labelling process
 
-<img src="/Images/TaskSample.png" width="370">
+<img src="/Figures/TaskSample.png" width="370">
