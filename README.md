@@ -15,3 +15,6 @@ The following figure resents a a sample labelling task (i.e., HIT) for the seden
 ### Active Learning and SHAP Analysis 
 
 Please check the TranditionalModels notebook for more details about the implementation of these techniques. 
+
+## More Questions
+Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or zshakeri[@]ucalagry.ca for specific inquiries.
