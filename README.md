@@ -6,3 +6,5 @@ The main objective of this study is to explore and evaluate the application of c
 A full version of the dataset used for this study is available at the dataset's [Github repository](https://github.com/data-intelligence-for-health-lab/Lpheada-Labelled-Public-HEAlth-DAtaset). As sample dataset for replicating the results of this study is provided in this repository, under the 'sample datase' folder.
 
 ## Tasks and Labelling process
+
+<img src="/Images/TaskSample.png" width="370">
