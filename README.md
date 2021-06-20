@@ -11,3 +11,7 @@ A full version of the dataset used for this study is available at the dataset's 
 The following figure resents a a sample labelling task (i.e., HIT) for the sedentary behaviour category. Each HIT contains four questions (section 1), and each asks if the presented tweet is a self-reported PASS-related behaviour (section 2). The fourth question is a pre-defined qualification question that was designed in addition to the qualification requirements defined by AMT (section 3). The answer to this question was always choice#1, and it was easy enough to detect spammers or irresponsible workers. Also, each HIT contains an illustrative example that explains each choice of the questions. Workers were asked to select exactly one choice, and HITs with zero or more than one label were rejected during the approval process.
 
 <img src="/Figures/TaskSample.png" width="370">
+
+### Active Learning and SHAP Analysis 
+
+Please check the TranditionalModels notebook for more details about the implementation of these techniques. 
