@@ -16,5 +16,19 @@ The following figure resents a a sample labelling task (i.e., HIT) for the seden
 
 Please check the TranditionalModels notebook for more details about the implementation of these techniques. 
 
+## Citation
+
+The manuscript that presents this study has been accepted for publication at the Journal of Medical Internet Research (JMIR). You can cite our paper as follows:
+
+``` 
+@article{PASSDS,
+	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
+	title = {Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk},
+	year = {forthcoming},
+	doi = {doi:10.2196/28749},
+	journal = {JMIR}
+}
+```
+
 ## More Questions
-Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or zshakeri[@]ucalagry.ca for specific inquiries.
+Please use issues on this Github for any questions or feedback. You can also contact us at dih[at]ucalgary.ca or joonwu.lee[at]ucalagry.ca for specific inquiries.
