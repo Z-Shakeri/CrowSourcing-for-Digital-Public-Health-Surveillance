@@ -22,10 +22,10 @@ The manuscript that presents this study has been accepted for publication at the
 
 ``` 
 @article{PASSDS,
-	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
+	author = {Shakeri Hossein Abad, Zahra and Butler, Gregory and Thompson, Wendy and Lee, Joon},
 	title = {Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk},
 	year = {forthcoming},
-	doi = {doi:10.2196/28749},
+	doi = {10.2196/28749},
 	journal = {JMIR}
 }
 ```
