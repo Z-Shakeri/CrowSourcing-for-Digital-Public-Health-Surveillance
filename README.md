@@ -21,12 +21,15 @@ Please check the TranditionalModels notebook for more details about the implemen
 The manuscript that presents this study has been accepted for publication at the Journal of Medical Internet Research (JMIR). You can cite our paper as follows:
 
 ``` 
-@article{PASSDS,
-	author = {Shakeri Hossein Abad, Zahra and Butler, Gregory and Thompson, Wendy and Lee, Joon},
-	title = {Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk},
-	year = {forthcoming},
-	doi = {10.2196/28749},
-	journal = {JMIR}
+@article{abad2022crowdsourcing,
+  title={Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk},
+  author={Abad, Zahra Shakeri Hossein and Butler, Gregory P and Thompson, Wendy and Lee, Joon and others},
+  journal={Journal of medical Internet research},
+  volume={24},
+  number={1},
+  pages={e28749},
+  year={2022},
+  publisher={JMIR Publications Inc., Toronto, Canada}
 }
 ```
 
